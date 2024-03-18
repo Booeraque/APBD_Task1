@@ -1,0 +1,14 @@
+C:\Studies\RiderProjects\APBD_Task1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.exe
+C:\Studies\RiderProjects\APBD_Task1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.deps.json
+C:\Studies\RiderProjects\APBD_Task1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.runtimeconfig.json
+C:\Studies\RiderProjects\APBD_Task1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.dll
+C:\Studies\RiderProjects\APBD_Task1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.pdb
+C:\Studies\RiderProjects\APBD_Task1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studies\RiderProjects\APBD_Task1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+C:\Studies\RiderProjects\APBD_Task1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfo.cs
+C:\Studies\RiderProjects\APBD_Task1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Studies\RiderProjects\APBD_Task1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.dll
+C:\Studies\RiderProjects\APBD_Task1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\refint\MyFirstConsoleApp.dll
+C:\Studies\RiderProjects\APBD_Task1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.pdb
+C:\Studies\RiderProjects\APBD_Task1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.genruntimeconfig.cache
+C:\Studies\RiderProjects\APBD_Task1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\ref\MyFirstConsoleApp.dll
