@@ -15,13 +15,13 @@ class Program
 
     private static int CalculateAvg(int[] arr)
     {
-        var totalCount = 0;
+        var tCount = 0;
         var totalSum = 0;
         foreach (var num in arr)
         {
             totalSum += num;
-            totalCount++;
+            tCount++;
         }
-        return totalSum / totalCount;
+        return totalSum / tCount;
     }
 }
