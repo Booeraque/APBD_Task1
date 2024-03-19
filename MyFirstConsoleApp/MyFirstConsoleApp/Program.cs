@@ -13,10 +13,10 @@ class Program
         Console.WriteLine("The average for the array: [" + string.Join(", ", arr) + "]\nIs a number: " + arrAvg);
     }
 
-    private static int CalculateAvg(int[] arr)
+    private static int CalculateAvg(int[] myArr)
     {
-        var maxValue = arr[0];
-        foreach (var num in arr)
+        var maxValue = myArr[0];
+        foreach (var num in myArr)
         {
             if (maxValue <= num) maxValue = num;
         }
